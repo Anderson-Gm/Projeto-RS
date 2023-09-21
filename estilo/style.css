@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 * {
     margin: 0px;
     padding: 0px;
@@ -15,7 +16,7 @@ body {
     background-attachment: fixed;
 }
 main {position: relative;
-    height: 100vh;
+    height: 90vh;
     
 }
 section#telefone {
@@ -33,7 +34,7 @@ iframe#tela {
     top: 79px;
     left: 21px;
     width: 269px;
-    height: 471px;
+    height: 473px;
 }
 section#redes-sociais {
     text-align: right;
